@@ -1,0 +1,6 @@
+[core]
+    remote = blackblaze
+    autostage = true
+['remote "blackblaze"']
+    url = s3://solse-world
+    endpointurl = https://s3.us-east-005.backblazeb2.com
