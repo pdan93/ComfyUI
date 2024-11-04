@@ -3,10 +3,10 @@ torchsde
 torchvision
 torchaudio
 einops
-transformers>=4.28.1
+transformers
 tokenizers>=0.13.3
 sentencepiece
-safetensors>=0.4.2
+safetensors
 aiohttp
 pyyaml
 Pillow
